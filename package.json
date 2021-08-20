@@ -1,6 +1,7 @@
 {
   "name": "d_coder_site",
   "version": "0.1.0",
+  "proxy":"http://dcoderbackend.herokuapp.com/api",
   "engines": {
     "node": "14.x"
   },
